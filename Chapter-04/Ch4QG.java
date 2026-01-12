@@ -24,5 +24,7 @@ public class Ch4QG {
             System.out.println("Triangle is scalane.");
             
         }
+
+        sc.close();
     }
 }
